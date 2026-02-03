@@ -50,7 +50,7 @@ Le robot (`SmartRobot`) fonctionne de manière déterministe :
 ## Architecture du projet
 
 ```
-Project-1-anagramme/
+Anagramme/
 │
 ├── data/
 ├── modules/
